@@ -16,6 +16,7 @@
 		FD5222212DABDA0200C0D7B5 /* TaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD5222202DABDA0200C0D7B5 /* TaskBootcamp.swift */; };
 		FDB72D582DAD0CE6002E4469 /* TaskGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB72D572DAD0CE6002E4469 /* TaskGroup.swift */; };
 		FDB72D592DAD0CE6002E4469 /* AsyncLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB72D562DAD0CE6002E4469 /* AsyncLet.swift */; };
+		FDB72D5B2DAD1B5C002E4469 /* CheckedContinuation.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB72D5A2DAD1B5C002E4469 /* CheckedContinuation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,8 +29,17 @@
 		FD5222202DABDA0200C0D7B5 /* TaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootcamp.swift; sourceTree = "<group>"; };
 		FDB72D562DAD0CE6002E4469 /* AsyncLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLet.swift; sourceTree = "<group>"; };
 		FDB72D572DAD0CE6002E4469 /* TaskGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroup.swift; sourceTree = "<group>"; };
+		FDB72D5A2DAD1B5C002E4469 /* CheckedContinuation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckedContinuation.swift; sourceTree = "<group>"; };
 		FDF608882DA7F67600E4BD24 /* SwiftConcurrencyBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrencyBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		FDB72D5C2DAD254D002E4469 /* ModifiersComponents */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ModifiersComponents;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		FDF608852DA7F67600E4BD24 /* Frameworks */ = {
@@ -53,6 +63,8 @@
 				FD5222202DABDA0200C0D7B5 /* TaskBootcamp.swift */,
 				FDB72D562DAD0CE6002E4469 /* AsyncLet.swift */,
 				FDB72D572DAD0CE6002E4469 /* TaskGroup.swift */,
+				FDB72D5A2DAD1B5C002E4469 /* CheckedContinuation.swift */,
+				FDB72D5C2DAD254D002E4469 /* ModifiersComponents */,
 				FD5222182DABD11700C0D7B5 /* SwiftConcurrencyBootcampApp.swift */,
 			);
 			path = SwiftConcurrencyBootcamp;
@@ -88,6 +100,9 @@
 			buildRules = (
 			);
 			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				FDB72D5C2DAD254D002E4469 /* ModifiersComponents */,
 			);
 			name = SwiftConcurrencyBootcamp;
 			packageProductDependencies = (
@@ -154,6 +169,7 @@
 				FDB72D582DAD0CE6002E4469 /* TaskGroup.swift in Sources */,
 				FDB72D592DAD0CE6002E4469 /* AsyncLet.swift in Sources */,
 				FD52221E2DABD11700C0D7B5 /* DownloadImageAsync.swift in Sources */,
+				FDB72D5B2DAD1B5C002E4469 /* CheckedContinuation.swift in Sources */,
 				FD52221F2DABD11700C0D7B5 /* SwiftConcurrencyBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
