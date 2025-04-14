@@ -8,3 +8,8 @@
 5. Async Let
 6. Task Group
 7. 
+8. Modifiers Component -
+   a. Photos Picker
+   b. Refreshable
+   c.Searchable
+9. 
