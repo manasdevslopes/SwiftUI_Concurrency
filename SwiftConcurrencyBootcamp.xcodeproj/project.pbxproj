@@ -14,6 +14,8 @@
 		FD52221E2DABD11700C0D7B5 /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD5222172DABD11700C0D7B5 /* DownloadImageAsync.swift */; };
 		FD52221F2DABD11700C0D7B5 /* SwiftConcurrencyBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD5222182DABD11700C0D7B5 /* SwiftConcurrencyBootcampApp.swift */; };
 		FD5222212DABDA0200C0D7B5 /* TaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD5222202DABDA0200C0D7B5 /* TaskBootcamp.swift */; };
+		FDB72D582DAD0CE6002E4469 /* TaskGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB72D572DAD0CE6002E4469 /* TaskGroup.swift */; };
+		FDB72D592DAD0CE6002E4469 /* AsyncLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB72D562DAD0CE6002E4469 /* AsyncLet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		FD5222172DABD11700C0D7B5 /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
 		FD5222182DABD11700C0D7B5 /* SwiftConcurrencyBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftConcurrencyBootcampApp.swift; sourceTree = "<group>"; };
 		FD5222202DABDA0200C0D7B5 /* TaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootcamp.swift; sourceTree = "<group>"; };
+		FDB72D562DAD0CE6002E4469 /* AsyncLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLet.swift; sourceTree = "<group>"; };
+		FDB72D572DAD0CE6002E4469 /* TaskGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroup.swift; sourceTree = "<group>"; };
 		FDF608882DA7F67600E4BD24 /* SwiftConcurrencyBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrencyBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -47,6 +51,8 @@
 				FD5222172DABD11700C0D7B5 /* DownloadImageAsync.swift */,
 				FD5222142DABD11700C0D7B5 /* AsyncAwait.swift */,
 				FD5222202DABDA0200C0D7B5 /* TaskBootcamp.swift */,
+				FDB72D562DAD0CE6002E4469 /* AsyncLet.swift */,
+				FDB72D572DAD0CE6002E4469 /* TaskGroup.swift */,
 				FD5222182DABD11700C0D7B5 /* SwiftConcurrencyBootcampApp.swift */,
 			);
 			path = SwiftConcurrencyBootcamp;
@@ -145,6 +151,8 @@
 				FD52221C2DABD11700C0D7B5 /* ContentView.swift in Sources */,
 				FD52221D2DABD11700C0D7B5 /* DoTryCatchThrows.swift in Sources */,
 				FD5222212DABDA0200C0D7B5 /* TaskBootcamp.swift in Sources */,
+				FDB72D582DAD0CE6002E4469 /* TaskGroup.swift in Sources */,
+				FDB72D592DAD0CE6002E4469 /* AsyncLet.swift in Sources */,
 				FD52221E2DABD11700C0D7B5 /* DownloadImageAsync.swift in Sources */,
 				FD52221F2DABD11700C0D7B5 /* SwiftConcurrencyBootcampApp.swift in Sources */,
 			);
