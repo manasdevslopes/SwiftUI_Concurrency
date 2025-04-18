@@ -8,9 +8,14 @@
 5. Async Let
 6. Task Group
 7. CheckedContinuation
-8. 
-9. Modifiers Component -
+8. Actors
+9. GlobalActor
+10. Sendable Protocol
+11. Strong-weak self
+12. 
+13. MVVM with asycn, await & actors
+14. Modifiers Component -
    a. Photos Picker
    b. Refreshable
    c.Searchable
-10. 
+15. 
