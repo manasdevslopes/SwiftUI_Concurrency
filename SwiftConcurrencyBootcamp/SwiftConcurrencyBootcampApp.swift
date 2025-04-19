@@ -23,9 +23,11 @@ struct SwiftConcurrencyBootcampApp: App {
           // TaskGroup()
           // CheckedContinuation()
           // ActorsBootcamp()
-          SendableProtocolBootcamp()
+          // SendableProtocolBootcamp()
+          // AsyncStreamBootcamp()
           // RefreshableModifier()
           // SearchableBootcamp()
+          ObservableMacroBootcamp()
         }
     }
 }

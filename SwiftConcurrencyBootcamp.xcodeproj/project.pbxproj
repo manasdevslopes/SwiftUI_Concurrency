@@ -12,6 +12,7 @@
 		FD20FE8F2DB279E4007EA948 /* SendableProtocolBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD20FE8E2DB279E4007EA948 /* SendableProtocolBootcamp.swift */; };
 		FD20FE912DB2848E007EA948 /* StrongWeakself.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD20FE902DB2848E007EA948 /* StrongWeakself.swift */; };
 		FD20FE932DB28DC7007EA948 /* MVVMBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD20FE922DB28DC7007EA948 /* MVVMBootcamp.swift */; };
+		FD2873652DB3FF5D00EFB946 /* ObservableMacroBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD2873642DB3FF5D00EFB946 /* ObservableMacroBootcamp.swift */; };
 		FD52221A2DABD11700C0D7B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD5222132DABD11700C0D7B5 /* Assets.xcassets */; };
 		FD52221B2DABD11700C0D7B5 /* AsyncAwait.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD5222142DABD11700C0D7B5 /* AsyncAwait.swift */; };
 		FD52221C2DABD11700C0D7B5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD5222152DABD11700C0D7B5 /* ContentView.swift */; };
@@ -22,6 +23,8 @@
 		FDB72D582DAD0CE6002E4469 /* TaskGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB72D572DAD0CE6002E4469 /* TaskGroup.swift */; };
 		FDB72D592DAD0CE6002E4469 /* AsyncLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB72D562DAD0CE6002E4469 /* AsyncLet.swift */; };
 		FDB72D5B2DAD1B5C002E4469 /* CheckedContinuation.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB72D5A2DAD1B5C002E4469 /* CheckedContinuation.swift */; };
+		FDEA52512DB3E77400892EE2 /* AsyncPublisherBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDEA52502DB3E77400892EE2 /* AsyncPublisherBootcamp.swift */; };
+		FDEA52532DB3EF4400892EE2 /* AsyncStreamBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDEA52522DB3EF4400892EE2 /* AsyncStreamBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +33,7 @@
 		FD20FE8E2DB279E4007EA948 /* SendableProtocolBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendableProtocolBootcamp.swift; sourceTree = "<group>"; };
 		FD20FE902DB2848E007EA948 /* StrongWeakself.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrongWeakself.swift; sourceTree = "<group>"; };
 		FD20FE922DB28DC7007EA948 /* MVVMBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVMBootcamp.swift; sourceTree = "<group>"; };
+		FD2873642DB3FF5D00EFB946 /* ObservableMacroBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservableMacroBootcamp.swift; sourceTree = "<group>"; };
 		FD5222132DABD11700C0D7B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD5222142DABD11700C0D7B5 /* AsyncAwait.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwait.swift; sourceTree = "<group>"; };
 		FD5222152DABD11700C0D7B5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -40,6 +44,8 @@
 		FDB72D562DAD0CE6002E4469 /* AsyncLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLet.swift; sourceTree = "<group>"; };
 		FDB72D572DAD0CE6002E4469 /* TaskGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroup.swift; sourceTree = "<group>"; };
 		FDB72D5A2DAD1B5C002E4469 /* CheckedContinuation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckedContinuation.swift; sourceTree = "<group>"; };
+		FDEA52502DB3E77400892EE2 /* AsyncPublisherBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncPublisherBootcamp.swift; sourceTree = "<group>"; };
+		FDEA52522DB3EF4400892EE2 /* AsyncStreamBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncStreamBootcamp.swift; sourceTree = "<group>"; };
 		FDF608882DA7F67600E4BD24 /* SwiftConcurrencyBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrencyBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -79,6 +85,9 @@
 				FD20FE8E2DB279E4007EA948 /* SendableProtocolBootcamp.swift */,
 				FD20FE902DB2848E007EA948 /* StrongWeakself.swift */,
 				FD20FE922DB28DC7007EA948 /* MVVMBootcamp.swift */,
+				FDEA52502DB3E77400892EE2 /* AsyncPublisherBootcamp.swift */,
+				FDEA52522DB3EF4400892EE2 /* AsyncStreamBootcamp.swift */,
+				FD2873642DB3FF5D00EFB946 /* ObservableMacroBootcamp.swift */,
 				FDB72D5C2DAD254D002E4469 /* ModifiersComponents */,
 				FD5222182DABD11700C0D7B5 /* SwiftConcurrencyBootcampApp.swift */,
 			);
@@ -181,12 +190,15 @@
 				FD52221C2DABD11700C0D7B5 /* ContentView.swift in Sources */,
 				FD52221D2DABD11700C0D7B5 /* DoTryCatchThrows.swift in Sources */,
 				FD5222212DABDA0200C0D7B5 /* TaskBootcamp.swift in Sources */,
+				FDEA52512DB3E77400892EE2 /* AsyncPublisherBootcamp.swift in Sources */,
 				FD20FE8B2DB2588E007EA948 /* ActorsBootcamp.swift in Sources */,
 				FDB72D582DAD0CE6002E4469 /* TaskGroup.swift in Sources */,
 				FDB72D592DAD0CE6002E4469 /* AsyncLet.swift in Sources */,
 				FD20FE8D2DB26E15007EA948 /* GlobalActorBootcamp.swift in Sources */,
 				FD20FE8F2DB279E4007EA948 /* SendableProtocolBootcamp.swift in Sources */,
+				FD2873652DB3FF5D00EFB946 /* ObservableMacroBootcamp.swift in Sources */,
 				FD52221E2DABD11700C0D7B5 /* DownloadImageAsync.swift in Sources */,
+				FDEA52532DB3EF4400892EE2 /* AsyncStreamBootcamp.swift in Sources */,
 				FD20FE932DB28DC7007EA948 /* MVVMBootcamp.swift in Sources */,
 				FDB72D5B2DAD1B5C002E4469 /* CheckedContinuation.swift in Sources */,
 				FD20FE912DB2848E007EA948 /* StrongWeakself.swift in Sources */,
