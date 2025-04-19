@@ -12,10 +12,11 @@
 9. GlobalActor
 10. Sendable Protocol
 11. Strong-weak self
-12. 
+12. AsyncPublisher
 13. MVVM with asycn, await & actors
 14. Modifiers Component -
    a. Photos Picker
    b. Refreshable
    c.Searchable
-15. 
+15. AsyncStream
+16. Observable Framework
